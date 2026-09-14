@@ -1,5 +1,4 @@
 # ChatFCM
-# ChatFCM
 
 Official repository for our paper:
 
